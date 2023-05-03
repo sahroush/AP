@@ -1,0 +1,9 @@
+[submodule "A4"]
+	path = A4
+	url = https://github.com/sahroush/APS02-A4
+[submodule "Abonus"]
+	path = Abonus
+	url = https://github.com/sahroush/ABonus-810101545-810101570
+[submodule "A5"]
+	path = A5
+	url = https://github.com/sahroush/Dangool-the-game
