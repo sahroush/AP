@@ -20,6 +20,7 @@ const string NO_D_MISSION  = "DRIVER_MISSION_NOT_FOUND";
 const char DELIM = ':';
 const string OK = "OK";
 const int MIN_TO_SEC = 60;
+const char WINDOWS_CRAP = '\r';
 
 enum Commands{
     TIME_MSN = 1,
