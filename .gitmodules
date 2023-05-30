@@ -7,3 +7,6 @@
 [submodule "A5"]
 	path = A5
 	url = https://github.com/sahroush/Dangool-the-game
+[submodule "A7-1"]
+	path = A7-1
+	url = https://github.com/erfan-mirshams/futball-fantasy
