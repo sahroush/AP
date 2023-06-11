@@ -10,3 +10,6 @@
 [submodule "A7-1"]
 	path = A7-1
 	url = https://github.com/erfan-mirshams/futball-fantasy
+[submodule "A7-2"]
+	path = A7-2
+	url = https://github.com/sahroush/futball-fantasy-2
